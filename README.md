@@ -1,14 +1,13 @@
 # random-walk
 
-A Clojure library designed to ... well, that part is up to you.
+A Quil sketch that implments a random walker with a couple of mildly interesting tweaks.
 
 ## Usage
 
-FIXME
+Evaluate the `defsketch` form in the `random-walk.core` namespace.
 
 ## License
 
 Copyright © 2018 FIXME
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License either version 1.0.
